@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://garcia-reviews.github.io/Gluco-Cleanse-Tea-Reviews/sitemap.xml
